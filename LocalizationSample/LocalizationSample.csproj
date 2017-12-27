@@ -25,6 +25,7 @@
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\LocalizationSample\TestNamespace\Views\Home\Index.it-IT.resx">
       <Generator>ResXFileCodeGenerator</Generator>
+      <LogicalName>LocalizationSample.Resources.Views.Home.Index.it-IT.resources</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\Views\Home\Index.en-US.resx">
       <Generator>ResXFileCodeGenerator</Generator>
